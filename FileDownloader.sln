@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloader.Core", "FileDownloader.Core\FileDownloader.Core.csproj", "{8180DE93-A138-4F97-9D15-14076C71919E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloader.Run", "FileDownloader.Run\FileDownloader.Run.csproj", "{709F53BF-79AE-4F4A-B3D9-010C8D8B445B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8180DE93-A138-4F97-9D15-14076C71919E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8180DE93-A138-4F97-9D15-14076C71919E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8180DE93-A138-4F97-9D15-14076C71919E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8180DE93-A138-4F97-9D15-14076C71919E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709F53BF-79AE-4F4A-B3D9-010C8D8B445B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709F53BF-79AE-4F4A-B3D9-010C8D8B445B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709F53BF-79AE-4F4A-B3D9-010C8D8B445B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709F53BF-79AE-4F4A-B3D9-010C8D8B445B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
