@@ -20,7 +20,7 @@ namespace FileDownloader.Run
 
         static void DisplayFile(byte[] obj)
         {
-            Console.WriteLine("File downloaded:{0}", string.Join(", ", obj));
+            Console.WriteLine("File was downloaded: {0}", string.Join(", ", obj));
         }
 
 
